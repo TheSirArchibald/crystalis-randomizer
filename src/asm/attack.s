@@ -1,6 +1,6 @@
 ;;; smudge sha1 fd0dcde4f1708b30d5c3de1e463f1dde89c5cb64
 ;;; smudge off
-
+;;; testing
 ;;; Patches to the player attack routines (i.e. damaging enemies).  Includes
 ;;;  1. Adjust damage calculations for different object ram layout
 ;;;  2. Enable tink mode (optionally)
