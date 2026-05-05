@@ -804,6 +804,11 @@ class HardMode extends FlagSection {
     hard: true,
   });
 
+    static readonly WarriorPowerRing = EasyMode.flag('Wr', {
+    name: 'WarriorRingVisual',
+    text: `Adds a full charged sprite visual to the charater.`
+  });
+
   static readonly Permadeath = HardMode.flag('Hh', {
     name: 'Permadeath',
     text: `Hardcore mode: checkpoints and saves are removed.`,
